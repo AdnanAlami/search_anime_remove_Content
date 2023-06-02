@@ -1,12 +1,15 @@
-[   {
+{
+  "data": [
+    {
         "blkom": "blkom",
          "animeiat": "animeiat",
          "xsanime": "xsanime",
          "anime4up": "anime4up",
          "toons": "toons",
-         "cartoon": "",
+         "cartoon": "cartoon",
             "animezid": "animezid",
         "witanime": "",
          "fasel": "fasel"
     }
 ]
+     }
